@@ -1,0 +1,65 @@
+body {
+    margin: 0 auto; 
+    width: 1300px;
+    border-radius: 10px;
+}
+header {
+    height: 200px;
+    border: 5px solid green;
+    margin: 2px;
+}
+#school-logo {
+    display: block; 
+    margin: 0 auto; 
+}
+#conducive-learning {
+    height: 200px; 
+    border: 5px solid black;
+    padding: 10px;
+}
+.proprietress-picture {
+    float: right; 
+    height: 200px; 
+    width: 200px; 
+}
+.conducive-learning {
+    display: contents; 
+    text-align: center;
+}
+#quality-teaching {
+    height: 200px; 
+    border: 5px solid black;
+    padding: 10px; 
+    margin: 2px;
+}
+.proprietress-picture1 {
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+#co-curricular {
+    height: 200px; 
+    border: 5px solid black;
+    padding: 10px; 
+}
+.co-curricular {
+    display: contents; 
+    text-align: center;
+}
+#quality-teaching {
+    height: 200px; 
+    border: 5px solid black;
+    padding: 10px;
+}
+.quality-teaching {
+    display: contents; 
+    text-align: center;
+}
+footer {
+    height: 100px; 
+    border: 5px solid black; 
+    text-align: center;
+    padding: 20px;
+    margin: 2px;
+}
+

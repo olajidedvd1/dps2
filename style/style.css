@@ -1,0 +1,104 @@
+#logo {
+    display: block;
+    width: 200px;
+    margin: 0 auto; 
+}
+header {
+    text-align: center;
+}
+ul, li, a:hover {
+    color: red;
+}
+ul, li {
+    display: inline;   
+}
+#banner {
+    display: block;
+    /*width: 1300px;*/
+    height: 300px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center; 
+}
+section {
+    padding: 10px;
+    margin: 5px;
+    height: 200px;
+    border: 3px solid black;
+}
+#proprietress-picture {
+    display: inline-block;
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+.proprietress-comment-box {
+    height: 200px;
+    width: 200px;
+    display: contents;
+    text-align: center;
+}
+.proprietress-comment {
+    text-align: center;
+}
+#headteacher-picture {
+    display: inline-block;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+.headteacher-comment-box {
+    height: 200px;
+    width: 200px;
+    display: contents;
+    text-align: center;
+}
+#vision {
+    display: inline-block;
+    float: right;
+    height: 200px;
+    width: 200px;
+}
+.vision-comment-box {
+    height: 200px;
+    width: 200px;
+    display: contents;
+    text-align: center;
+}
+#mission {
+    display: inline-block;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+.mission-comment-box {
+    height: 200px;
+    width: 200px;
+    display: contents;
+    text-align: center;
+}
+#contact {
+    height: 400px; 
+    margin: 5px;
+    border: 3px solid black;
+}
+.contact {
+    display: inline-block;
+    height: 400px;
+    float: right;
+}
+.contact-box {
+    height: 200px;
+    width: 200px;
+    display: contents;
+    text-align: center;
+    background-color: red;
+}
+footer {
+    height: 150px;
+    border: 3px solid black;
+    padding: 20px;
+    text-align: center;
+    margin: 5px;
+}
